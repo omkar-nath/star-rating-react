@@ -1,0 +1,19 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.star-rating {
+  cursor: pointer;
+  font-size: x-large;
+  height: 50px;
+  display: inline-block;
+}
+
+.on {
+  color: orange;
+}
+
+.off {
+  color: black;
+}
